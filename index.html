@@ -13,7 +13,7 @@ and open the template in the editor.
         <script src="http://code.angularjs.org/1.2.5/angular-resource.js"></script>
         <script src="http://code.angularjs.org/1.2.5/angular-route.js"></script>
           <script src="Services/Home.js"></script>
-         <!-- <script src="Services/Noticias.js"></script>-->
+          <script src="Services/Noticias.js"></script>
         <script src="Services/Services.js"></script>
         <script src="Controllers/Noticias.js"></script>
         <script src="Controllers/Home.js"></script>
